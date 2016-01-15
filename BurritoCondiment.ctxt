@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=upperLayer
+comment0.target=BurritoCondiment(BurritoFiller)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BurritoCondiment,\ attaches\ this\ object\ to\ a\ BurritoFiller.\r\n\ @param\ \ \ \ \ \ \ \ \ BurritoFiller\ upperLayer\r\n\ @return\ \ \ \ \ \ \ \ None\r\n
+comment1.params=upperLayer
+comment1.target=BurritoCondiment(BurritoCondiment)
+comment1.text=\r\n\ Overloaded\ constructor\ for\ objects\ of\ class\ BurritoCondiment,\ attaches\ this\ object\ to\ a\ BurritoCondiment.\r\n\ @param\ \ \ \ \ \ \ \ \ BurritoCondiment\ upperLayer\r\n\ @return\ \ \ \ \ \ \ \ None\r\n
+comment2.params=
+comment2.target=double\ cost()
+comment2.text=\r\n\ cost\ -\ Returns\ the\ cost\ of\ this\ condiment\ plus\ the\ layers\ above\ it.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ cost\ of\ this\ filler\ plus\ the\ layers\ above\ it.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ toString\ -\ \ Returns\ the\ String\ description\ of\ those\ BurritoItems\ above\ it,\ plus\ itself.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ String\ description\ of\ those\ BurritoItems\ above\ it,\ plus\ "Condiment\:\ ".\r\n
+comment4.params=
+comment4.target=boolean\ isDuplicate()
+comment4.text=\r\n\ isDuplicate\ -\ \ Checks\ to\ see\ if\ a\ specific\ BurritoCondiment\ is\ already\ in\ our\ burrito.\ Uses\ recursion.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ true\ if\ the\ burrito\ already\ has\ that\ condiment,\ false\ otherwise\r\n
+comment5.params=bc
+comment5.target=boolean\ equals(BurritoCondiment)
+comment5.text=\r\n\ equals\ -\ \ Checks\ to\ see\ if\ two\ BurritoCondiments\ are\ of\ the\ same\ type.\ This\ method\ is\ defined\ in\ each\ condiment\ subclass\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ BurritoCondiment\ bc\ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ true\ if\ they\ are,\ false\ if\ they\ are\ not.\ \r\n
+numComments=6

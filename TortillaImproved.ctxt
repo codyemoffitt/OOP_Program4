@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=tortillaCost\ tortillaName
+comment0.target=TortillaImproved(double,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TortillaImproved.\ Takes\ a\ cost\ and\ name.\r\n\ @param\ \ \ \ \ \ \ \ \ double\ tortillaCost\r\n\ @param\ \ \ \ \ \ \ \ \ String\ tortillaName\ \ \ \ \r\n\ \r\n
+comment1.params=
+comment1.target=double\ cost()
+comment1.text=\r\n\ cost\ -\ Returns\ the\ cost\ of\ this\ Tortilla\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ cost\ of\ this\ Tortilla\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\ -\ \ Returns\ the\ String\ description\ of\ this\ Tortilla.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ String\ description\ of\ this\ Tortilla.\r\n
+numComments=3

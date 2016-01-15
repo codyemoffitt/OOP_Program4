@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=upperLayer
+comment0.target=GrilledChicken(BurritoFiller)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GrilledChicken,\ attaches\ it\ to\ a\ BurritoFiller.\r\n\ @param\ \ \ \ \ \ \ \ \ BurritoFiller\ upperLayer\r\n
+comment1.params=upperLayer
+comment1.target=GrilledChicken(Tortilla)
+comment1.text=\r\n\ Overloaded\ constructor\ for\ objects\ of\ class\ GrilledChicken,\ attaches\ it\ to\ a\ Tortilla.\r\n\ @param\ \ \ \ \ \ \ \ \ Tortilla\ upperLayer\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\ -\ \ Returns\ the\ String\ description\ of\ those\ BurritoItems\ above\ it,\ plus\ itself.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ String\ description\ of\ those\ BurritoItems\ above\ it,\ plus\ itself.\r\n
+numComments=3

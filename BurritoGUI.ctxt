@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BurritoGUI()
+comment0.text=\r\n\ This\ is\ the\ constructor\ for\ the\ BurritoGUI.\r\n\ It\ sets\ up\ all\ the\ panels\ and\ buttons.\r\n\ \r\n
+comment1.params=we
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ The\ main\ method\ for\ Program\ 4.\ Creates\ the\ GUI\ and\ makes\ it\ visible.\ Very\ simple.\ \r\n\ @param\ args\ Not\ used\ in\ this\ program\r\n
+numComments=3

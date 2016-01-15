@@ -1,0 +1,52 @@
+Would you like to order a burrito (y/n)? 1. Build Your Own 
+2. Spicy Veggie 
+3. Double Steak 
+
+
+Select from the above: 
+
+Tortilla: Chipotle
+Filler: Black Bean
+Condiment: Pico De Gallo
+Condiment: Jalapeno
+
+
+Your burrito cost is $3.28.
+Would you like to order another burrito (y/n)? 1. Build Your Own 
+2. Spicy Veggie 
+3. Double Steak 
+
+
+Select from the above: 
+
+(W)heat, (C)hipotle, (S)pinach: (W)heat, (C)hipotle, (S)pinach: (W)heat, (C)hipotle, (S)pinach: 
+Select the fillers for your burrito.
+(G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (P)ico De Gallo, (G)uacamole, (O)nion, (J)alapeno, (D)one: (P)ico De Gallo, (G)uacamole, (O)nion, (D)one: (P)ico De Gallo, (G)uacamole, (D)one: (P)ico De Gallo, (D)one: (P)ico De Gallo, (D)one: (P)ico De Gallo, (D)one: (P)ico De Gallo, (D)one: (P)ico De Gallo, (D)one: 
+
+Tortilla: Spinach
+Filler: Steak
+Filler: Steak
+Filler: Black Bean
+Condiment: Jalapeno
+Condiment: Onion
+Condiment: Guacamole
+
+
+Your burrito cost is $4.53.
+Would you like to order another burrito (y/n)? 1. Build Your Own 
+2. Spicy Veggie 
+3. Double Steak 
+
+
+Select from the above: 
+
+(W)heat, (C)hipotle, (S)pinach: 
+Select the fillers for your burrito.
+(G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (G)rilled Chicken, (S)teak, (B)lack Bean, (D)one: (P)ico De Gallo, (G)uacamole, (O)nion, (J)alapeno, (D)one: 
+
+Tortilla: Wheat
+Filler: Grilled Chicken
+
+
+Your burrito cost is $1.56.
+Would you like to order another burrito (y/n)? You ordered 3 burrito(s) for a grand total of $9.37.

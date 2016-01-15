@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tortilla()
+comment0.text=\r\n\ Constructor\ -\ Links\ this\ Tortilla\ to\ a\ null,\ its\ the\ first\ in\ the\ chain\ of\ layers.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ None\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ None,\ its\ the\ constructor\ \r\n
+comment1.params=
+comment1.target=double\ cost()
+comment1.text=\r\n\ cost\ -\ Abstract\ method,\ to\ be\ defined\ in\ subclasses.\ Will\ get\ total\ cost\ of\ burrito,\ by\r\n\ adding\ up\ all\ the\ layers\ recursviely.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ cost\ of\ the\ next\ BurritoItem\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\ -\ \ Returns\ the\ String\ description\ "Tortilla\:\ ",\ child\ classes\ will\ use\ this.\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ String\ description\ "Tortilla\:\ "\r\n
+numComments=3

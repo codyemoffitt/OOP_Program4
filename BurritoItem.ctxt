@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=upperLayer
+comment0.target=BurritoItem(BurritoItem)
+comment0.text=\r\n\ Constructor\ -\ Links\ this\ BurritoItem\ with\ a\ chain\ of\ BurritoItems\r\n\ \r\n\ @param\ \ upperLayer\ \ \ \ The\ reference\ to\ the\ next\ layer\ of\ the\ Burrito,\ another\ BurritoItem.\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ None,\ its\ the\ constructor\ \r\n
+comment1.params=
+comment1.target=double\ cost()
+comment1.text=\r\n\ cost\ -\ \ Returns\ the\ cost\ of\ the\ next\ BurritoItem\ \ \ \ \ \ \ \ \r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ cost\ of\ the\ next\ BurritoItem\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\ -\ \ Returns\ the\ String\ description\ of\ the\ next\ burrito\ item\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ the\ String\ description\ of\ the\ next\ burrito\ item\r\n
+comment3.params=check
+comment3.target=boolean\ isDuplicate(BurritoCondiment)
+comment3.text=\r\n\ isDuplicate\ -\ \ Checks\ to\ see\ if\ a\ BurritoCondiment\ is\ already\ in\ our\ burrito\r\n\ \r\n\ @param\ \ \ \ \ \ \ \ \ None\ \ \ \ \r\n\ @return\ \ \ \ \ \ \ \ Returns\ true\ if\ the\ burrito\ already\ has\ that\ condiment,\ false\ otherwise\r\n
+numComments=4
